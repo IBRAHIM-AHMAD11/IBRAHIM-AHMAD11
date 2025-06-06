@@ -36,11 +36,4 @@
 
 ---
 
-## 📫 Let's Connect!
-- 🐦 Twitter: [@ibworks_ai](https://twitter.com/ibworks_ai)
-- 💻 GitHub: [@IBRAHIM-AHMAD11](https://github.com/IBRAHIM-AHMAD11)
-- 🌐 Website: Coming soon...
-
----
-
 > ✨ “If I can think it, I can build it!” — Ibrahim
